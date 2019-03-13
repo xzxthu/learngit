@@ -3,3 +3,5 @@ add test
 debug
 
 rebase test
+
+test:stash -p
