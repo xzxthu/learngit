@@ -7,3 +7,5 @@ rebase test
 test:stash -p
 
 test:branch
+
+test:remote branch
