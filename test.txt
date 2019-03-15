@@ -5,3 +5,5 @@ debug
 rebase test
 
 test:stash -p
+
+test:branch
